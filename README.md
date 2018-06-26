@@ -1,1 +1,2 @@
-# projectgit
+# this is a small chat app.
+// 
